@@ -17,9 +17,7 @@ html {
   text-transform: capitalize;
   transition: all 0.2s linear;
 }
-.head{
-  margin-top: 40px!important;
-}
+
 .social-icons .fa {
   font-size: 25px;
   
@@ -116,6 +114,9 @@ header {
   flex-flow: column;
   text-align: center;
 }
+header .user{
+  margin-top: 45px;
+}
 
 header .user img {
   height: 17rem;
@@ -123,6 +124,7 @@ header .user img {
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
+  margin-top:20px;
   border: 0.7rem solid var(--yellow);
 }
 
