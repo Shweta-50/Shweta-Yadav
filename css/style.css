@@ -17,6 +17,9 @@ html {
   text-transform: capitalize;
   transition: all 0.2s linear;
 }
+.head{
+  margin-top: 20px!important;
+}
 .social-icons .fa {
   font-size: 25px;
   
